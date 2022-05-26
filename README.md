@@ -1,1 +1,1 @@
-# fe-easy
+# fe-easy-cli
