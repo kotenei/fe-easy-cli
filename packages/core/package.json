@@ -1,6 +1,6 @@
 {
   "name": "@fe-easy-cli/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "hutianrong <tianrong.x.hu@ericsson.com>",
   "homepage": "https://github.com/kotenei/fe-easy-cli/tree/main/packages/core#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/kotenei/fe-easy-cli/issues"
   },
   "dependencies": {
-    "@fe-easy-cli/utils": "^1.0.0"
+    "@fe-easy-cli/utils": "^0.0.1"
   }
 }
